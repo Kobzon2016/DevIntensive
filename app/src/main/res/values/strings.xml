@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Вячеслав Кобзев</string>
+    <string name="text1">5\nРейтинг</string>
+    <string name="text2">5\nНаписано строк кода</string>
+    <string name="text3">5\nПроектов</string>
+    <string name="text4">Я являюсь юристом, однако\n
+    никогда не желал им быть\n
+    всегда было стремлние к программированию\n
+    вот на этот раз решил взять себя \n
+    ежовые руковицы и заняться собой\n
+    стал бегать ежедневно\n
+    приобрёл огромную мотивацию\n
+    к разработке по андроид на java</string>
+
+
 </resources>
